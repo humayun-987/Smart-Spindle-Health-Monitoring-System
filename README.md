@@ -58,7 +58,7 @@ It sends configuration commands to the FPGA, displays **real-time time-domain an
 The **FPGA VI** handles **deterministic high-speed data acquisition** from the IEPE accelerometer, applies initial signal conditioning, and executes automated triggering for warm-up and measurement cycles.  
 This ensures precise timing and reliable operation even under high spindle speeds.
 
----
+<br>
 
 **LabVIEW FPGA Block Diagram**  
 ![LabVIEW FPGA Block Diagram](LabVIEW/Snippets/FPGA_VI.png)
