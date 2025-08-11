@@ -78,7 +78,6 @@ This ensures precise timing and reliable operation even under high spindle speed
 
 The Raspberry Pi–based system provides a **low-cost alternative** to industrial-grade spindle health monitoring, while maintaining accurate frequency detection for predictive maintenance.
 
----
 
 #### 📦 Hardware Components
 - **Raspberry Pi 4 Model B** → Data acquisition & processing
