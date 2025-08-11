@@ -90,7 +90,4 @@ This project presents **two complementary approaches** to spindle health monitor
 
 ---
 
-## 👨‍💻 Authors
-- **Humayun Ahmad**  
-- **Chanda Bhavitha Sri**  
-- **Jainam Tated**  
+**Contributors:** *Humayun Ahmad*, *Chanda Bhavitha Sri*, *Jainam Tated*
