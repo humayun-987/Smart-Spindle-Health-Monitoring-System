@@ -114,10 +114,10 @@ This project presents **two complementary approaches** to spindle health monitor
 ## 🔧 System Architecture
 
 **LabVIEW FPGA Block Diagram**  
-![LabVIEW FPGA Block Diagram](media/FPGA_VI.png)
+![LabVIEW FPGA Block Diagram](LabVIEW/Snippets/FPGA_VI.png)
 
 **LabVIEW PC Control Block Diagram**  
-![LabVIEW PC Control Block Diagram](media/PC_VI_BLOCK-DIAGRAM.png)
+![LabVIEW PC Control Block Diagram](LabVIEW/Snippets/PC_VI.png)
 
 ---
 
@@ -136,20 +136,21 @@ This project presents **two complementary approaches** to spindle health monitor
 
 ## 📊 Results Showcase
 
-**Benchmarking & Cost Analysis**  
-![Benchmarking Cost](results/Benchmarking_Cost.png)
-
-**Calibrometer Output — CompactRIO/LabVIEW Setup**  
-![Calibrometer LabVIEW](results/Calibrometer_LabVIEW.png)
-
-**Calibrometer Output — Low-Cost Raspberry Pi Setup**  
-![Calibrometer Cost](results/Calibrometer_Cost.png)
-
-**Frequency Spectrum Example**  
-![Frequency Spectrum](results/Frequency_Spectrum.png)
+### 📈 Signal Analysis Results
 
 **Spindle Vibration Signal**  
-![Spindle Vibration](results/Spindle_Vibration.png)
+![Spindle Vibration](results/Spindle-Vibration-Data.png)
+
+**Frequency Spectrum Example**  
+![Frequency Spectrum](results/Frequency-Spectrum.png)
+
+### ⚖️ Benchmarking High Precision LabVIEW setup with Compact & Cost-effective setup
+
+**Calibrometer Output – LabVIEW**  
+![Calibrometer LabVIEW](results/Benchmarking/Calibrometer_LabVIEW_Setup.png)
+
+**Calibrometer Output – Low-cost System**  
+![Calibrometer Cost](results/Benchmarking/Calibrometer_Cost-EffectiveSetup.jpg)
 
 ---
 
